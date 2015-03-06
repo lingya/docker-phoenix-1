@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
-MAINTAINER ajduncan <ajduncan@gmail.com>
+MAINTAINER asiainfo
 
 # Set locale
 RUN locale-gen en_US.UTF-8
